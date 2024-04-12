@@ -28,7 +28,7 @@ async def huhh(client: Client, message: Message):
                         ": 𝗥͜𝗼͡𝗪͡𝗲͜𝗦 💸⤸ ᳒", url=f"https://t.me/DeV_RoWeS"), 
                  ],[
                     InlineKeyboardButton(
-                        ": GrouP .", url=f"https://t.me/RQ_V0"),
+                        ": GrouP .", url=f"https://t.me/R3_QX"),
                 ],[
                 
                     InlineKeyboardButton(
@@ -83,7 +83,7 @@ async def yas(client, message):
 
 
 @app.on_message(
-    command(["r"])
+    command(["اماندا"])
     & filters.group
     & ~filters.edited
 )
@@ -100,7 +100,7 @@ async def yas(client, message):
                  ],[
                 
                     InlineKeyboardButton(
-                        ": ChanneL .", url=f"https://t.me/AN_XQ"),
+                        ": ChanneL .", url=f"https://t.me/RQ_SF"),
                 ],
 
             ]
